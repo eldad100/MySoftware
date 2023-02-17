@@ -1,4 +1,4 @@
-def welocme():
+def welcome():
     print("NewScreen")
 welcome()    
 
