@@ -1,0 +1,3 @@
+def welocme():
+    print("NewScreen")
+
